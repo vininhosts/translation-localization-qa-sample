@@ -88,9 +88,8 @@ def page_stream(page: list[tuple[str, int, bool]]) -> bytes:
     for text, size, bold in page:
         font = "F2" if bold else "F1"
         commands.append(f"/{font} {size} Tf")
-        commands.append(f"{MARGIN} {y} Td")
+        commands.append(f"1 0 0 1 {MARGIN} {y} Tm")
         commands.append(f"({pdf_text(text)}) Tj")
-        commands.append(f"{-MARGIN} 0 Td")
         y -= LINE_HEIGHT if size <= 10 else LINE_HEIGHT + 6
     commands.append("ET")
     return "\n".join(commands).encode("latin-1", errors="replace")
@@ -102,7 +101,7 @@ def write_pdf(pages: list[list[tuple[str, int, bool]]]) -> None:
 
     page_object_numbers = []
     content_object_numbers = []
-    next_obj = 4
+    next_obj = 5
     for _page in pages:
         page_object_numbers.append(next_obj)
         content_object_numbers.append(next_obj + 1)

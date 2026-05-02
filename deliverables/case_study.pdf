@@ -3,7 +3,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
@@ -12,210 +12,163 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
 endobj
 5 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 3542 >>
+<< /Length 3496 >>
 stream
 BT
 /F2 18 Tf
-54 738 Td
+1 0 0 1 54 738 Tm
 (English to Brazilian Portuguese Localization QA Sample) Tj
--54 0 Td
 /F1 10 Tf
-54 718 Td
+1 0 0 1 54 718 Tm
 (Self-initiated portfolio case study for translation, localization QA, and AI/software) Tj
--54 0 Td
 /F1 10 Tf
-54 704 Td
+1 0 0 1 54 704 Tm
 (content review.) Tj
--54 0 Td
 /F1 10 Tf
-54 690 Td
+1 0 0 1 54 690 Tm
 () Tj
--54 0 Td
 /F2 14 Tf
-54 676 Td
+1 0 0 1 54 676 Tm
 (Project Summary) Tj
--54 0 Td
 /F1 10 Tf
-54 656 Td
+1 0 0 1 54 656 Tm
 (Language pair: English to Brazilian Portuguese) Tj
--54 0 Td
 /F1 10 Tf
-54 642 Td
+1 0 0 1 54 642 Tm
 (Content type: SaaS app copy, onboarding text, UI strings, and help-center copy) Tj
--54 0 Td
 /F1 10 Tf
-54 628 Td
+1 0 0 1 54 628 Tm
 (Sample status: portfolio demonstration, not client work) Tj
--54 0 Td
 /F1 10 Tf
-54 614 Td
+1 0 0 1 54 614 Tm
 () Tj
--54 0 Td
 /F2 14 Tf
-54 600 Td
+1 0 0 1 54 600 Tm
 (English Source Sample) Tj
--54 0 Td
 /F1 10 Tf
-54 580 Td
+1 0 0 1 54 580 Tm
 (Stay focused without losing track of the details. TaskPilot AI captures your notes,) Tj
--54 0 Td
 /F1 10 Tf
-54 566 Td
+1 0 0 1 54 566 Tm
 (highlights decisions, and suggests action items so your team can move faster after every) Tj
--54 0 Td
 /F1 10 Tf
-54 552 Td
+1 0 0 1 54 552 Tm
 (meeting.) Tj
--54 0 Td
 /F1 10 Tf
-54 538 Td
+1 0 0 1 54 538 Tm
 (Review the suggested action items before sharing them. You stay in control of what gets) Tj
--54 0 Td
 /F1 10 Tf
-54 524 Td
+1 0 0 1 54 524 Tm
 (sent.) Tj
--54 0 Td
 /F1 10 Tf
-54 510 Td
+1 0 0 1 54 510 Tm
 () Tj
--54 0 Td
 /F2 14 Tf
-54 496 Td
+1 0 0 1 54 496 Tm
 (Brazilian Portuguese Translation) Tj
--54 0 Td
 /F1 10 Tf
-54 476 Td
+1 0 0 1 54 476 Tm
 (Mantenha o foco sem perder os detalhes importantes. O TaskPilot AI captura suas) Tj
--54 0 Td
 /F1 10 Tf
-54 462 Td
+1 0 0 1 54 462 Tm
 (anotações, destaca decisões e sugere itens de ação para que sua equipe avance com mais) Tj
--54 0 Td
 /F1 10 Tf
-54 448 Td
+1 0 0 1 54 448 Tm
 (rapidez depois de cada reunião.) Tj
--54 0 Td
 /F1 10 Tf
-54 434 Td
+1 0 0 1 54 434 Tm
 (Revise os itens de ação sugeridos antes de compartilhá-los. Você mantém o controle sobre) Tj
--54 0 Td
 /F1 10 Tf
-54 420 Td
+1 0 0 1 54 420 Tm
 (o que será enviado.) Tj
--54 0 Td
 /F1 10 Tf
-54 406 Td
+1 0 0 1 54 406 Tm
 () Tj
--54 0 Td
 /F2 14 Tf
-54 392 Td
+1 0 0 1 54 392 Tm
 (UI String Samples) Tj
--54 0 Td
 /F1 10 Tf
-54 372 Td
+1 0 0 1 54 372 Tm
 (New summary -> Novo resumo) Tj
--54 0 Td
 /F1 10 Tf
-54 358 Td
+1 0 0 1 54 358 Tm
 (Upload transcript -> Enviar transcrição) Tj
--54 0 Td
 /F1 10 Tf
-54 344 Td
+1 0 0 1 54 344 Tm
 (Generate action items -> Gerar itens de ação) Tj
--54 0 Td
 /F1 10 Tf
-54 330 Td
+1 0 0 1 54 330 Tm
 (Assign owner -> Atribuir responsável) Tj
--54 0 Td
 /F1 10 Tf
-54 316 Td
+1 0 0 1 54 316 Tm
 (Review before sending -> Revisar antes de enviar) Tj
--54 0 Td
 /F1 10 Tf
-54 302 Td
+1 0 0 1 54 302 Tm
 () Tj
--54 0 Td
 /F2 14 Tf
-54 288 Td
+1 0 0 1 54 288 Tm
 (Terminology Decisions) Tj
--54 0 Td
 /F1 10 Tf
-54 268 Td
+1 0 0 1 54 268 Tm
 (action items -> itens de ação: common in business/productivity contexts.) Tj
--54 0 Td
 /F1 10 Tf
-54 254 Td
+1 0 0 1 54 254 Tm
 (owners -> responsáveis: natural task-management wording; avoids literal 'donos'.) Tj
--54 0 Td
 /F1 10 Tf
-54 240 Td
+1 0 0 1 54 240 Tm
 (follow-up messages -> mensagens de acompanhamento: preserves meaning without unnecessary) Tj
--54 0 Td
 /F1 10 Tf
-54 226 Td
+1 0 0 1 54 226 Tm
 (English borrowing.) Tj
--54 0 Td
 /F1 10 Tf
-54 212 Td
+1 0 0 1 54 212 Tm
 (Settings -> Configurações: standard software UI term.) Tj
--54 0 Td
 /F1 10 Tf
-54 198 Td
+1 0 0 1 54 198 Tm
 (workspace -> espaço de trabalho: common SaaS localization term.) Tj
--54 0 Td
 /F1 10 Tf
-54 184 Td
+1 0 0 1 54 184 Tm
 () Tj
--54 0 Td
 /F2 14 Tf
-54 170 Td
+1 0 0 1 54 170 Tm
 (Quality Checks) Tj
--54 0 Td
 /F1 10 Tf
-54 150 Td
+1 0 0 1 54 150 Tm
 (- Meaning preserved from source to target.) Tj
--54 0 Td
 /F1 10 Tf
-54 136 Td
+1 0 0 1 54 136 Tm
 (- Brazilian Portuguese reads naturally, not literally translated.) Tj
--54 0 Td
 /F1 10 Tf
-54 122 Td
+1 0 0 1 54 122 Tm
 (- Product name remains unchanged.) Tj
--54 0 Td
 /F1 10 Tf
-54 108 Td
+1 0 0 1 54 108 Tm
 (- UI strings are concise enough for buttons and menus.) Tj
--54 0 Td
 /F1 10 Tf
-54 94 Td
+1 0 0 1 54 94 Tm
 (- Terminology is consistent across app-store copy, onboarding, UI, and help center text.) Tj
--54 0 Td
 /F1 10 Tf
-54 80 Td
+1 0 0 1 54 80 Tm
 (- Safety/help-center warning remains clear and direct.) Tj
--54 0 Td
 /F1 10 Tf
-54 66 Td
+1 0 0 1 54 66 Tm
 () Tj
--54 0 Td
 ET
 endstream
 endobj
 7 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
 endobj
 8 0 obj
-<< /Length 101 >>
+<< /Length 100 >>
 stream
 BT
 /F1 9 Tf
-54 738 Td
+1 0 0 1 54 738 Tm
 (Created by Vini Siqueira as a self-initiated portfolio sample.) Tj
--54 0 Td
 ET
 endstream
 endobj
@@ -228,10 +181,10 @@ xref
 0000000218 00000 n 
 0000000320 00000 n 
 0000000456 00000 n 
-0000004050 00000 n 
-0000004186 00000 n 
+0000004004 00000 n 
+0000004140 00000 n 
 trailer
 << /Size 9 /Root 1 0 R >>
 startxref
-4338
+4291
 %%EOF
