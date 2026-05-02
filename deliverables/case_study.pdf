@@ -1,0 +1,237 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+6 0 obj
+<< /Length 3542 >>
+stream
+BT
+/F2 18 Tf
+54 738 Td
+(English to Brazilian Portuguese Localization QA Sample) Tj
+-54 0 Td
+/F1 10 Tf
+54 718 Td
+(Self-initiated portfolio case study for translation, localization QA, and AI/software) Tj
+-54 0 Td
+/F1 10 Tf
+54 704 Td
+(content review.) Tj
+-54 0 Td
+/F1 10 Tf
+54 690 Td
+() Tj
+-54 0 Td
+/F2 14 Tf
+54 676 Td
+(Project Summary) Tj
+-54 0 Td
+/F1 10 Tf
+54 656 Td
+(Language pair: English to Brazilian Portuguese) Tj
+-54 0 Td
+/F1 10 Tf
+54 642 Td
+(Content type: SaaS app copy, onboarding text, UI strings, and help-center copy) Tj
+-54 0 Td
+/F1 10 Tf
+54 628 Td
+(Sample status: portfolio demonstration, not client work) Tj
+-54 0 Td
+/F1 10 Tf
+54 614 Td
+() Tj
+-54 0 Td
+/F2 14 Tf
+54 600 Td
+(English Source Sample) Tj
+-54 0 Td
+/F1 10 Tf
+54 580 Td
+(Stay focused without losing track of the details. TaskPilot AI captures your notes,) Tj
+-54 0 Td
+/F1 10 Tf
+54 566 Td
+(highlights decisions, and suggests action items so your team can move faster after every) Tj
+-54 0 Td
+/F1 10 Tf
+54 552 Td
+(meeting.) Tj
+-54 0 Td
+/F1 10 Tf
+54 538 Td
+(Review the suggested action items before sharing them. You stay in control of what gets) Tj
+-54 0 Td
+/F1 10 Tf
+54 524 Td
+(sent.) Tj
+-54 0 Td
+/F1 10 Tf
+54 510 Td
+() Tj
+-54 0 Td
+/F2 14 Tf
+54 496 Td
+(Brazilian Portuguese Translation) Tj
+-54 0 Td
+/F1 10 Tf
+54 476 Td
+(Mantenha o foco sem perder os detalhes importantes. O TaskPilot AI captura suas) Tj
+-54 0 Td
+/F1 10 Tf
+54 462 Td
+(anotações, destaca decisões e sugere itens de ação para que sua equipe avance com mais) Tj
+-54 0 Td
+/F1 10 Tf
+54 448 Td
+(rapidez depois de cada reunião.) Tj
+-54 0 Td
+/F1 10 Tf
+54 434 Td
+(Revise os itens de ação sugeridos antes de compartilhá-los. Você mantém o controle sobre) Tj
+-54 0 Td
+/F1 10 Tf
+54 420 Td
+(o que será enviado.) Tj
+-54 0 Td
+/F1 10 Tf
+54 406 Td
+() Tj
+-54 0 Td
+/F2 14 Tf
+54 392 Td
+(UI String Samples) Tj
+-54 0 Td
+/F1 10 Tf
+54 372 Td
+(New summary -> Novo resumo) Tj
+-54 0 Td
+/F1 10 Tf
+54 358 Td
+(Upload transcript -> Enviar transcrição) Tj
+-54 0 Td
+/F1 10 Tf
+54 344 Td
+(Generate action items -> Gerar itens de ação) Tj
+-54 0 Td
+/F1 10 Tf
+54 330 Td
+(Assign owner -> Atribuir responsável) Tj
+-54 0 Td
+/F1 10 Tf
+54 316 Td
+(Review before sending -> Revisar antes de enviar) Tj
+-54 0 Td
+/F1 10 Tf
+54 302 Td
+() Tj
+-54 0 Td
+/F2 14 Tf
+54 288 Td
+(Terminology Decisions) Tj
+-54 0 Td
+/F1 10 Tf
+54 268 Td
+(action items -> itens de ação: common in business/productivity contexts.) Tj
+-54 0 Td
+/F1 10 Tf
+54 254 Td
+(owners -> responsáveis: natural task-management wording; avoids literal 'donos'.) Tj
+-54 0 Td
+/F1 10 Tf
+54 240 Td
+(follow-up messages -> mensagens de acompanhamento: preserves meaning without unnecessary) Tj
+-54 0 Td
+/F1 10 Tf
+54 226 Td
+(English borrowing.) Tj
+-54 0 Td
+/F1 10 Tf
+54 212 Td
+(Settings -> Configurações: standard software UI term.) Tj
+-54 0 Td
+/F1 10 Tf
+54 198 Td
+(workspace -> espaço de trabalho: common SaaS localization term.) Tj
+-54 0 Td
+/F1 10 Tf
+54 184 Td
+() Tj
+-54 0 Td
+/F2 14 Tf
+54 170 Td
+(Quality Checks) Tj
+-54 0 Td
+/F1 10 Tf
+54 150 Td
+(- Meaning preserved from source to target.) Tj
+-54 0 Td
+/F1 10 Tf
+54 136 Td
+(- Brazilian Portuguese reads naturally, not literally translated.) Tj
+-54 0 Td
+/F1 10 Tf
+54 122 Td
+(- Product name remains unchanged.) Tj
+-54 0 Td
+/F1 10 Tf
+54 108 Td
+(- UI strings are concise enough for buttons and menus.) Tj
+-54 0 Td
+/F1 10 Tf
+54 94 Td
+(- Terminology is consistent across app-store copy, onboarding, UI, and help center text.) Tj
+-54 0 Td
+/F1 10 Tf
+54 80 Td
+(- Safety/help-center warning remains clear and direct.) Tj
+-54 0 Td
+/F1 10 Tf
+54 66 Td
+() Tj
+-54 0 Td
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+8 0 obj
+<< /Length 101 >>
+stream
+BT
+/F1 9 Tf
+54 738 Td
+(Created by Vini Siqueira as a self-initiated portfolio sample.) Tj
+-54 0 Td
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000218 00000 n 
+0000000320 00000 n 
+0000000456 00000 n 
+0000004050 00000 n 
+0000004186 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+4338
+%%EOF

@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>English to Brazilian Portuguese Localization QA Sample</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #172033;
+      --muted: #5f6b7a;
+      --line: #d8dee8;
+      --panel: #f7f9fc;
+      --accent: #166534;
+      --accent-soft: #dcfce7;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, Arial, sans-serif;
+      line-height: 1.55;
+      color: var(--ink);
+      background: #ffffff;
+    }
+    main {
+      max-width: 1080px;
+      margin: 0 auto;
+      padding: 48px 28px 64px;
+    }
+    header {
+      border-bottom: 2px solid var(--line);
+      padding-bottom: 24px;
+      margin-bottom: 32px;
+    }
+    h1 {
+      margin: 0 0 10px;
+      font-size: 36px;
+      line-height: 1.1;
+      letter-spacing: 0;
+    }
+    h2 {
+      margin: 36px 0 14px;
+      font-size: 23px;
+    }
+    h3 {
+      margin: 20px 0 8px;
+      font-size: 18px;
+    }
+    p { margin: 0 0 12px; }
+    .meta {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+      margin-top: 22px;
+    }
+    .meta div, .note {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 14px;
+    }
+    .label {
+      display: block;
+      color: var(--muted);
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: .04em;
+      margin-bottom: 4px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+    }
+    .card {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 18px;
+      background: #fff;
+    }
+    .source { border-top: 5px solid #64748b; }
+    .target { border-top: 5px solid var(--accent); }
+    ul { margin-top: 8px; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 12px;
+      font-size: 14px;
+    }
+    th, td {
+      border: 1px solid var(--line);
+      padding: 10px;
+      vertical-align: top;
+      text-align: left;
+    }
+    th {
+      background: var(--accent-soft);
+    }
+    .pill {
+      display: inline-block;
+      background: var(--accent-soft);
+      color: var(--accent);
+      border-radius: 999px;
+      padding: 4px 10px;
+      margin: 0 6px 8px 0;
+      font-size: 13px;
+      font-weight: 700;
+    }
+    footer {
+      margin-top: 40px;
+      padding-top: 18px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 14px;
+    }
+    @media print {
+      main { max-width: none; padding: 20px; }
+      .card, .note, .meta div { break-inside: avoid; }
+    }
+  </style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>English to Brazilian Portuguese Localization QA Sample</h1>
+    <p>Self-initiated portfolio case study for a fictional AI productivity app, showing source copy, final PT-BR translation, terminology decisions, and quality checks.</p>
+    <div class="meta">
+      <div><span class="label">Language Pair</span>English → Brazilian Portuguese</div>
+      <div><span class="label">Content Type</span>SaaS app copy and UI strings</div>
+      <div><span class="label">Focus</span>Translation, localization, QA</div>
+      <div><span class="label">Status</span>Portfolio sample, not client work</div>
+    </div>
+  </header>
+
+  <section>
+    <h2>Project Summary</h2>
+    <p>This sample translates and localizes product copy for <strong>TaskPilot AI</strong>, a fictional productivity assistant for meeting summaries and action items. The goal is to keep the Portuguese clear, natural, concise, and suitable for software UI and app-store use.</p>
+    <p>
+      <span class="pill">PT-BR localization</span>
+      <span class="pill">Software UI</span>
+      <span class="pill">AI product copy</span>
+      <span class="pill">Glossary</span>
+      <span class="pill">QA notes</span>
+    </p>
+  </section>
+
+  <section>
+    <h2>Before and After Sample</h2>
+    <div class="grid">
+      <article class="card source">
+        <h3>English Source</h3>
+        <p>Stay focused without losing track of the details. TaskPilot AI captures your notes, highlights decisions, and suggests action items so your team can move faster after every meeting.</p>
+        <p>Review the suggested action items before sharing them. You stay in control of what gets sent.</p>
+      </article>
+      <article class="card target">
+        <h3>Brazilian Portuguese Translation</h3>
+        <p>Mantenha o foco sem perder os detalhes importantes. O TaskPilot AI captura suas anotações, destaca decisões e sugere itens de ação para que sua equipe avance com mais rapidez depois de cada reunião.</p>
+        <p>Revise os itens de ação sugeridos antes de compartilhá-los. Você mantém o controle sobre o que será enviado.</p>
+      </article>
+    </div>
+  </section>
+
+  <section>
+    <h2>UI String Sample</h2>
+    <table>
+      <thead>
+        <tr><th>English</th><th>Brazilian Portuguese</th><th>QA Note</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>New summary</td><td>Novo resumo</td><td>Short and natural for a button/menu label.</td></tr>
+        <tr><td>Upload transcript</td><td>Enviar transcrição</td><td>Uses common UI verb instead of overly literal wording.</td></tr>
+        <tr><td>Generate action items</td><td>Gerar itens de ação</td><td>Terminology aligned with productivity workflows.</td></tr>
+        <tr><td>Assign owner</td><td>Atribuir responsável</td><td>Natural PT-BR task-management phrasing.</td></tr>
+        <tr><td>Review before sending</td><td>Revisar antes de enviar</td><td>Concise and clear for safety/confirmation flow.</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Terminology Decisions</h2>
+    <table>
+      <thead>
+        <tr><th>English Term</th><th>Portuguese Term</th><th>Reason</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>action items</td><td>itens de ação</td><td>Common in business/productivity contexts.</td></tr>
+        <tr><td>owners</td><td>responsáveis</td><td>Avoids awkward literal translation such as “donos.”</td></tr>
+        <tr><td>follow-up messages</td><td>mensagens de acompanhamento</td><td>Preserves meaning without unnecessary English borrowing.</td></tr>
+        <tr><td>Settings</td><td>Configurações</td><td>Standard software UI term.</td></tr>
+        <tr><td>workspace</td><td>espaço de trabalho</td><td>Common SaaS localization term.</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Quality Checks</h2>
+    <div class="note">
+      <ul>
+        <li>Meaning preserved from source to target.</li>
+        <li>Brazilian Portuguese reads naturally, not literally translated.</li>
+        <li>Product name remains unchanged.</li>
+        <li>UI strings are concise enough for buttons and menus.</li>
+        <li>Terminology is consistent across app-store copy, onboarding, UI, and help center text.</li>
+        <li>Safety/help-center warning remains clear and direct.</li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    Created by Vini Siqueira as a self-initiated portfolio sample for translation, localization QA, and AI/software content review work.
+  </footer>
+</main>
+</body>
+</html>
